@@ -1,0 +1,100 @@
+E:\weixin download\WeChat Files\suosuo19991022\FileStorage\File\2022-09\MIK-P300上位机\MIK-P300\bin\Debug\MIK_P300.exe.config
+E:\weixin download\WeChat Files\suosuo19991022\FileStorage\File\2022-09\MIK-P300上位机\MIK-P300\bin\Debug\MIK_P300.exe
+E:\weixin download\WeChat Files\suosuo19991022\FileStorage\File\2022-09\MIK-P300上位机\MIK-P300\bin\Debug\MIK_P300.pdb
+E:\weixin download\WeChat Files\suosuo19991022\FileStorage\File\2022-09\MIK-P300上位机\MIK-P300\bin\Debug\ZedGraph.dll
+E:\weixin download\WeChat Files\suosuo19991022\FileStorage\File\2022-09\MIK-P300上位机\MIK-P300\obj\Debug\MIK-P300.csproj.AssemblyReference.cache
+E:\weixin download\WeChat Files\suosuo19991022\FileStorage\File\2022-09\MIK-P300上位机\MIK-P300\obj\Debug\MIK-P300.csproj.SuggestedBindingRedirects.cache
+E:\weixin download\WeChat Files\suosuo19991022\FileStorage\File\2022-09\MIK-P300上位机\MIK-P300\obj\Debug\MIK_P300.Form1.resources
+E:\weixin download\WeChat Files\suosuo19991022\FileStorage\File\2022-09\MIK-P300上位机\MIK-P300\obj\Debug\MIK_P300.Properties.Resources.resources
+E:\weixin download\WeChat Files\suosuo19991022\FileStorage\File\2022-09\MIK-P300上位机\MIK-P300\obj\Debug\MIK-P300.csproj.GenerateResource.cache
+E:\weixin download\WeChat Files\suosuo19991022\FileStorage\File\2022-09\MIK-P300上位机\MIK-P300\obj\Debug\MIK-P300.csproj.CoreCompileInputs.cache
+E:\weixin download\WeChat Files\suosuo19991022\FileStorage\File\2022-09\MIK-P300上位机\MIK-P300\obj\Debug\MIK-P300.csproj.CopyComplete
+E:\weixin download\WeChat Files\suosuo19991022\FileStorage\File\2022-09\MIK-P300上位机\MIK-P300\obj\Debug\MIK_P300.exe
+E:\weixin download\WeChat Files\suosuo19991022\FileStorage\File\2022-09\MIK-P300上位机\MIK-P300\obj\Debug\MIK_P300.pdb
+C:\Users\MASCARA\Documents\WeChat Files\suosuo19991022\FileStorage\MsgAttach\9e20f478899dc29eb19741386f9343c8\File\2022-09\MIK-P300上位机\MIK-P300\bin\Debug\MIK_P300.exe.config
+C:\Users\MASCARA\Documents\WeChat Files\suosuo19991022\FileStorage\MsgAttach\9e20f478899dc29eb19741386f9343c8\File\2022-09\MIK-P300上位机\MIK-P300\bin\Debug\MIK_P300.exe
+C:\Users\MASCARA\Documents\WeChat Files\suosuo19991022\FileStorage\MsgAttach\9e20f478899dc29eb19741386f9343c8\File\2022-09\MIK-P300上位机\MIK-P300\bin\Debug\MIK_P300.pdb
+C:\Users\MASCARA\Documents\WeChat Files\suosuo19991022\FileStorage\MsgAttach\9e20f478899dc29eb19741386f9343c8\File\2022-09\MIK-P300上位机\MIK-P300\bin\Debug\ZedGraph.dll
+C:\Users\MASCARA\Documents\WeChat Files\suosuo19991022\FileStorage\MsgAttach\9e20f478899dc29eb19741386f9343c8\File\2022-09\MIK-P300上位机\MIK-P300\obj\Debug\MIK-P300.csproj.AssemblyReference.cache
+C:\Users\MASCARA\Documents\WeChat Files\suosuo19991022\FileStorage\MsgAttach\9e20f478899dc29eb19741386f9343c8\File\2022-09\MIK-P300上位机\MIK-P300\obj\Debug\MIK-P300.csproj.SuggestedBindingRedirects.cache
+C:\Users\MASCARA\Documents\WeChat Files\suosuo19991022\FileStorage\MsgAttach\9e20f478899dc29eb19741386f9343c8\File\2022-09\MIK-P300上位机\MIK-P300\obj\Debug\MIK_P300.Form1.resources
+C:\Users\MASCARA\Documents\WeChat Files\suosuo19991022\FileStorage\MsgAttach\9e20f478899dc29eb19741386f9343c8\File\2022-09\MIK-P300上位机\MIK-P300\obj\Debug\MIK_P300.Properties.Resources.resources
+C:\Users\MASCARA\Documents\WeChat Files\suosuo19991022\FileStorage\MsgAttach\9e20f478899dc29eb19741386f9343c8\File\2022-09\MIK-P300上位机\MIK-P300\obj\Debug\MIK-P300.csproj.GenerateResource.cache
+C:\Users\MASCARA\Documents\WeChat Files\suosuo19991022\FileStorage\MsgAttach\9e20f478899dc29eb19741386f9343c8\File\2022-09\MIK-P300上位机\MIK-P300\obj\Debug\MIK-P300.csproj.CoreCompileInputs.cache
+C:\Users\MASCARA\Documents\WeChat Files\suosuo19991022\FileStorage\MsgAttach\9e20f478899dc29eb19741386f9343c8\File\2022-09\MIK-P300上位机\MIK-P300\obj\Debug\MIK-P300.csproj.CopyComplete
+C:\Users\MASCARA\Documents\WeChat Files\suosuo19991022\FileStorage\MsgAttach\9e20f478899dc29eb19741386f9343c8\File\2022-09\MIK-P300上位机\MIK-P300\obj\Debug\MIK_P300.exe
+C:\Users\MASCARA\Documents\WeChat Files\suosuo19991022\FileStorage\MsgAttach\9e20f478899dc29eb19741386f9343c8\File\2022-09\MIK-P300上位机\MIK-P300\obj\Debug\MIK_P300.pdb
+C:\Users\MASCARA\Documents\WeChat Files\suosuo19991022\FileStorage\MsgAttach\9e20f478899dc29eb19741386f9343c8\File\2022-09\MIK-P300上位机\MIK-P300\bin\Debug\MIK_P300.exe.manifest
+C:\Users\MASCARA\Documents\WeChat Files\suosuo19991022\FileStorage\MsgAttach\9e20f478899dc29eb19741386f9343c8\File\2022-09\MIK-P300上位机\MIK-P300\bin\Debug\MIK_P300.application
+C:\Users\MASCARA\Documents\WeChat Files\suosuo19991022\FileStorage\MsgAttach\9e20f478899dc29eb19741386f9343c8\File\2022-09\MIK-P300上位机\MIK-P300\obj\Debug\MIK_P300.exe.manifest
+C:\Users\MASCARA\Documents\WeChat Files\suosuo19991022\FileStorage\MsgAttach\9e20f478899dc29eb19741386f9343c8\File\2022-09\MIK-P300上位机\MIK-P300\obj\Debug\MIK_P300.application
+C:\Users\MASCARA\Desktop\MIK-P300上位机\MIK-P300\bin\Debug\MIK_P300.exe.config
+C:\Users\MASCARA\Desktop\MIK-P300上位机\MIK-P300\bin\Debug\MIK_P300.exe.manifest
+C:\Users\MASCARA\Desktop\MIK-P300上位机\MIK-P300\bin\Debug\MIK_P300.application
+C:\Users\MASCARA\Desktop\MIK-P300上位机\MIK-P300\bin\Debug\MIK_P300.exe
+C:\Users\MASCARA\Desktop\MIK-P300上位机\MIK-P300\bin\Debug\MIK_P300.pdb
+C:\Users\MASCARA\Desktop\MIK-P300上位机\MIK-P300\bin\Debug\ZedGraph.dll
+C:\Users\MASCARA\Desktop\MIK-P300上位机\MIK-P300\obj\Debug\MIK-P300.csproj.AssemblyReference.cache
+C:\Users\MASCARA\Desktop\MIK-P300上位机\MIK-P300\obj\Debug\MIK-P300.csproj.SuggestedBindingRedirects.cache
+C:\Users\MASCARA\Desktop\MIK-P300上位机\MIK-P300\obj\Debug\MIK_P300.Form1.resources
+C:\Users\MASCARA\Desktop\MIK-P300上位机\MIK-P300\obj\Debug\MIK_P300.Properties.Resources.resources
+C:\Users\MASCARA\Desktop\MIK-P300上位机\MIK-P300\obj\Debug\MIK-P300.csproj.GenerateResource.cache
+C:\Users\MASCARA\Desktop\MIK-P300上位机\MIK-P300\obj\Debug\MIK-P300.csproj.CoreCompileInputs.cache
+C:\Users\MASCARA\Desktop\MIK-P300上位机\MIK-P300\obj\Debug\MIK_P300.exe.manifest
+C:\Users\MASCARA\Desktop\MIK-P300上位机\MIK-P300\obj\Debug\MIK_P300.application
+C:\Users\MASCARA\Desktop\MIK-P300上位机\MIK-P300\obj\Debug\MIK-P300.csproj.CopyComplete
+C:\Users\MASCARA\Desktop\MIK-P300上位机\MIK-P300\obj\Debug\MIK_P300.exe
+C:\Users\MASCARA\Desktop\MIK-P300上位机\MIK-P300\obj\Debug\MIK_P300.pdb
+C:\Users\MASCARA\Desktop\MIK-P300上位机(修改)\MIK-P300\bin\Debug\MIK_P300.exe.config
+C:\Users\MASCARA\Desktop\MIK-P300上位机(修改)\MIK-P300\bin\Debug\MIK_P300.exe.manifest
+C:\Users\MASCARA\Desktop\MIK-P300上位机(修改)\MIK-P300\bin\Debug\MIK_P300.application
+C:\Users\MASCARA\Desktop\MIK-P300上位机(修改)\MIK-P300\bin\Debug\MIK_P300.exe
+C:\Users\MASCARA\Desktop\MIK-P300上位机(修改)\MIK-P300\bin\Debug\MIK_P300.pdb
+C:\Users\MASCARA\Desktop\MIK-P300上位机(修改)\MIK-P300\bin\Debug\ZedGraph.dll
+C:\Users\MASCARA\Desktop\MIK-P300上位机(修改)\MIK-P300\obj\Debug\MIK-P300.csproj.AssemblyReference.cache
+C:\Users\MASCARA\Desktop\MIK-P300上位机(修改)\MIK-P300\obj\Debug\MIK-P300.csproj.SuggestedBindingRedirects.cache
+C:\Users\MASCARA\Desktop\MIK-P300上位机(修改)\MIK-P300\obj\Debug\MIK_P300.Form1.resources
+C:\Users\MASCARA\Desktop\MIK-P300上位机(修改)\MIK-P300\obj\Debug\MIK_P300.Properties.Resources.resources
+C:\Users\MASCARA\Desktop\MIK-P300上位机(修改)\MIK-P300\obj\Debug\MIK-P300.csproj.GenerateResource.cache
+C:\Users\MASCARA\Desktop\MIK-P300上位机(修改)\MIK-P300\obj\Debug\MIK-P300.csproj.CoreCompileInputs.cache
+C:\Users\MASCARA\Desktop\MIK-P300上位机(修改)\MIK-P300\obj\Debug\MIK_P300.exe.manifest
+C:\Users\MASCARA\Desktop\MIK-P300上位机(修改)\MIK-P300\obj\Debug\MIK_P300.application
+C:\Users\MASCARA\Desktop\MIK-P300上位机(修改)\MIK-P300\obj\Debug\MIK-P300.csproj.CopyComplete
+C:\Users\MASCARA\Desktop\MIK-P300上位机(修改)\MIK-P300\obj\Debug\MIK_P300.exe
+C:\Users\MASCARA\Desktop\MIK-P300上位机(修改)\MIK-P300\obj\Debug\MIK_P300.pdb
+C:\Users\MASCARA\Desktop\MIK-P300上位机(路径在bin的debug)\MIK-P300\bin\Debug\MIK_P300.exe.config
+C:\Users\MASCARA\Desktop\MIK-P300上位机(路径在bin的debug)\MIK-P300\bin\Debug\MIK_P300.exe.manifest
+C:\Users\MASCARA\Desktop\MIK-P300上位机(路径在bin的debug)\MIK-P300\bin\Debug\MIK_P300.application
+C:\Users\MASCARA\Desktop\MIK-P300上位机(路径在bin的debug)\MIK-P300\bin\Debug\MIK_P300.exe
+C:\Users\MASCARA\Desktop\MIK-P300上位机(路径在bin的debug)\MIK-P300\bin\Debug\MIK_P300.pdb
+C:\Users\MASCARA\Desktop\MIK-P300上位机(路径在bin的debug)\MIK-P300\bin\Debug\ZedGraph.dll
+C:\Users\MASCARA\Desktop\MIK-P300上位机(路径在bin的debug)\MIK-P300\obj\Debug\MIK-P300.csproj.AssemblyReference.cache
+C:\Users\MASCARA\Desktop\MIK-P300上位机(路径在bin的debug)\MIK-P300\obj\Debug\MIK-P300.csproj.SuggestedBindingRedirects.cache
+C:\Users\MASCARA\Desktop\MIK-P300上位机(路径在bin的debug)\MIK-P300\obj\Debug\MIK_P300.Form1.resources
+C:\Users\MASCARA\Desktop\MIK-P300上位机(路径在bin的debug)\MIK-P300\obj\Debug\MIK_P300.Properties.Resources.resources
+C:\Users\MASCARA\Desktop\MIK-P300上位机(路径在bin的debug)\MIK-P300\obj\Debug\MIK-P300.csproj.GenerateResource.cache
+C:\Users\MASCARA\Desktop\MIK-P300上位机(路径在bin的debug)\MIK-P300\obj\Debug\MIK-P300.csproj.CoreCompileInputs.cache
+C:\Users\MASCARA\Desktop\MIK-P300上位机(路径在bin的debug)\MIK-P300\obj\Debug\MIK_P300.exe.manifest
+C:\Users\MASCARA\Desktop\MIK-P300上位机(路径在bin的debug)\MIK-P300\obj\Debug\MIK_P300.application
+C:\Users\MASCARA\Desktop\MIK-P300上位机(路径在bin的debug)\MIK-P300\obj\Debug\MIK-P300.csproj.CopyComplete
+C:\Users\MASCARA\Desktop\MIK-P300上位机(路径在bin的debug)\MIK-P300\obj\Debug\MIK_P300.exe
+C:\Users\MASCARA\Desktop\MIK-P300上位机(路径在bin的debug)\MIK-P300\obj\Debug\MIK_P300.pdb
+C:\Users\MASCARA\Desktop\MIK-P300上位机(路径在bin的debug)\MIK-P300\obj\Debug\MIK_P300.TrustInfo.xml
+C:\Users\MASCARA\Desktop\MIK-P300上位机(改完)\MIK-P300\bin\Debug\MIK_P300.exe.config
+C:\Users\MASCARA\Desktop\MIK-P300上位机(改完)\MIK-P300\bin\Debug\MIK_P300.exe.manifest
+C:\Users\MASCARA\Desktop\MIK-P300上位机(改完)\MIK-P300\bin\Debug\MIK_P300.application
+C:\Users\MASCARA\Desktop\MIK-P300上位机(改完)\MIK-P300\bin\Debug\MIK_P300.exe
+C:\Users\MASCARA\Desktop\MIK-P300上位机(改完)\MIK-P300\bin\Debug\MIK_P300.pdb
+C:\Users\MASCARA\Desktop\MIK-P300上位机(改完)\MIK-P300\bin\Debug\ZedGraph.dll
+C:\Users\MASCARA\Desktop\MIK-P300上位机(改完)\MIK-P300\obj\Debug\MIK-P300.csproj.AssemblyReference.cache
+C:\Users\MASCARA\Desktop\MIK-P300上位机(改完)\MIK-P300\obj\Debug\MIK-P300.csproj.SuggestedBindingRedirects.cache
+C:\Users\MASCARA\Desktop\MIK-P300上位机(改完)\MIK-P300\obj\Debug\MIK_P300.Form1.resources
+C:\Users\MASCARA\Desktop\MIK-P300上位机(改完)\MIK-P300\obj\Debug\MIK_P300.Properties.Resources.resources
+C:\Users\MASCARA\Desktop\MIK-P300上位机(改完)\MIK-P300\obj\Debug\MIK-P300.csproj.GenerateResource.cache
+C:\Users\MASCARA\Desktop\MIK-P300上位机(改完)\MIK-P300\obj\Debug\MIK-P300.csproj.CoreCompileInputs.cache
+C:\Users\MASCARA\Desktop\MIK-P300上位机(改完)\MIK-P300\obj\Debug\MIK_P300.TrustInfo.xml
+C:\Users\MASCARA\Desktop\MIK-P300上位机(改完)\MIK-P300\obj\Debug\MIK_P300.exe.manifest
+C:\Users\MASCARA\Desktop\MIK-P300上位机(改完)\MIK-P300\obj\Debug\MIK_P300.application
+C:\Users\MASCARA\Desktop\MIK-P300上位机(改完)\MIK-P300\obj\Debug\MIK-P300.csproj.CopyComplete
+C:\Users\MASCARA\Desktop\MIK-P300上位机(改完)\MIK-P300\obj\Debug\MIK_P300.exe
+C:\Users\MASCARA\Desktop\MIK-P300上位机(改完)\MIK-P300\obj\Debug\MIK_P300.pdb
